@@ -1,0 +1,1 @@
+The directory to contain the git project for holberton shcool
